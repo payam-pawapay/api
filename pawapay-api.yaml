@@ -6,6 +6,10 @@ info:
     name: "Payam Moin Afshari"
     email: "payam.afshari@pawapay.co.uk"
   version: "v1"
+  x-logo:
+    url: "https://www.pawapay.co.uk/s/pawapay_logo_800_with_bg"
+    backgroundColor: "#23002D"
+    altText: "pawaPay logo"
 servers:
 - url: "https://virtserver.swaggerhub.com/pawapay/customer-api/v1" 
   description: "SwaggerHub API Auto Mocking"
