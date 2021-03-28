@@ -7,8 +7,7 @@ info:
     email: "payam.afshari@pawapay.co.uk"
   version: "v1"
   x-logo:
-    url: "https://www.pawapay.co.uk/s/pawapay_logo_800_with_bg"
-    backgroundColor: "#23002D"
+    url: "https://www.pawapay.co.uk/s/pawapay_api_logo"
     altText: "pawaPay logo"
 servers:
 - url: "https://virtserver.swaggerhub.com/pawapay/customer-api/v1" 
